@@ -20,12 +20,12 @@ console.log(cem1 + cem2);
 
 // ! Exercise-2
 
-var n1 = 22;
-for (var i = 1; i <= n1; i++) {
-  if (i % 2 == 0) {
-    console.log(i);
-  }
-}
+// var n1 = 22;
+// for (var i = 1; i <= n1; i++) {
+//   if (i % 2 == 0) {
+//     console.log(i);
+//   }
+// }
 
 // ! Exercise-3
 /*

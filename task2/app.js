@@ -105,14 +105,14 @@ if (100 >= point && point >= 90) {
 }
 */
 // ! Exercise-6
-/*
+
 let year = prompt("ili daxil edin");
-if ((year % 4 == 0 && year % 100 == 0) || year % 400 == 0) {
+if ((year % 4 == 0 && year % 100 !== 0) || year % 400 == 0) {
   console.log(year + " is leap year");
 } else {
   console.log(year + " is not a leap year");
 }
-*/
+
 // ! Exercise-7
 
 // let num1 = prompt("num1 ni daxil edin");
